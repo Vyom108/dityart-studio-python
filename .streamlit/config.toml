@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#1f1e1c"
+backgroundColor = "#fffefa"
+secondaryBackgroundColor = "#fff7e8"
+textColor = "#26231f"
+borderColor = "#eee3cf"
+linkColor = "#8a681c"
+font = "sans-serif"
+headingFont = "serif"
+baseRadius = "large"
+buttonRadius = "full"
+
+[theme.sidebar]
+backgroundColor = "#fff8eb"
+secondaryBackgroundColor = "#fffefa"
+textColor = "#26231f"
+primaryColor = "#1f1e1c"
